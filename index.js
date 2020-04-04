@@ -1,4 +1,6 @@
 // Add your code here
 function submitData(name, email) {
-  fetch()
+  return fetch('http://localhost:3000/users', {
+    
+  })
 }
